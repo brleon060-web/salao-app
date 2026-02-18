@@ -1,0 +1,8 @@
+{
+  "name": "Salao Pro",
+  "short_name": "SalaoPro",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fce4f7",
+  "theme_color": "#b30086"
+}

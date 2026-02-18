@@ -1,0 +1,38 @@
+body{
+    font-family:Arial;
+    background:#fce4f7;
+    padding:20px;
+    font-size:18px;
+}
+
+h1{color:#b30086}
+
+input,select,button{
+    width:100%;
+    padding:12px;
+    margin:6px 0;
+    border-radius:8px;
+}
+
+button{
+    background:#b30086;
+    color:white;
+    border:none;
+}
+
+section{
+    background:white;
+    padding:15px;
+    margin-bottom:20px;
+    border-radius:12px;
+}
+
+.alerta{
+    padding:10px;
+    margin:10px 0;
+    border-radius:8px;
+}
+
+.vermelho{background:red;color:white}
+.laranja{background:orange}
+.amarelo{background:#ffe0b3}
